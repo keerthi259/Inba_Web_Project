@@ -1,0 +1,76 @@
+{
+  "stories": [
+    {
+      "id": 1,
+      "title": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "isbn": "9780061120084",
+      "rating": 4.7,
+      "review": "Amazing book with a strong message."
+    },
+    {
+      "id": 2,
+      "title": "1984",
+      "author": "George Orwell",
+      "isbn": "9780451524935",
+      "rating": 4.2,
+      "review": "A chilling dystopian classic."
+    },
+    {
+      "id": 3,
+      "title": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "isbn": "9780743273565",
+      "rating": 4.1,
+      "review": "Beautifully written and timeless."
+    },
+    {
+      "id": 4,
+      "title": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "isbn": "9780141439518",
+      "rating": 4.9,
+      "review": "A classic romance with sharp wit."
+    },
+    {
+      "id": 5,
+      "title": "The Alchemist",
+      "author": "Paulo Coelho",
+      "isbn": "9780061122415",
+      "rating": 4.8,
+      "review": "A magical tale about following your dreams."
+    },
+    {
+      "id": 6,
+      "title": "Sapiens: A Brief History of Humankind",
+      "author": "Yuval Noah Harari",
+      "isbn": "9780062316097",
+      "rating": 4.5,
+      "review": "Eye-opening and thought-provoking."
+    },
+    {
+      "id": 7,
+      "title": "Life of Pi",
+      "author": "Yann Martel",
+      "isbn": "9780156027328",
+      "rating": 4.5,
+      "review": "A gripping tale of survival and spirituality."
+    },
+    {
+      "id": 8,
+      "title": "Ponniyin Selvan - Part 1",
+      "author": "Kalki Krishnamurthy",
+      "isbn": "9788184935434",
+      "rating": 5,
+      "review": "Epic historical Tamil novel with rich storytelling."
+    },
+    {
+      "id": 9,
+      "title": "Velpari",
+      "author": "Sujatha",
+      "isbn": "9788183680229",
+      "rating": 5,
+      "review": "Powerful story set in ancient Tamilakam."
+    }
+  ]
+}
